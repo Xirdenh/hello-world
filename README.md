@@ -1,2 +1,3 @@
 # hello-world
-First time to learn code (its like a magic)
+First time to learn code (its like a magic),
+motivate yourself
